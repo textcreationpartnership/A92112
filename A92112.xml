@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A late letter from Sir Thomas Fairfax's army now in Truro. Relating the severall passages in the treaty, and what is concluded. Communicated to both Houses of Parliament upon Munday 16. March 1645. Die Lunæ 16 March 1645. Ordered by the Lords assembled in Parliament, that this letter be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+            <author>Rushworth, John, 1612?-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92112</idno>
+            <idno type="STC">Wing R2320</idno>
+            <idno type="STC">Thomason E328_12</idno>
+            <idno type="STC">ESTC R200675</idno>
+            <idno type="EEBO-CITATION">99861354</idno>
+            <idno type="PROQUEST">99861354</idno>
+            <idno type="VID">159603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E328[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A late letter from Sir Thomas Fairfax's army now in Truro. Relating the severall passages in the treaty, and what is concluded. Communicated to both Houses of Parliament upon Munday 16. March 1645. Die Lunæ 16 March 1645. Ordered by the Lords assembled in Parliament, that this letter be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+                  <author>Rushworth, John, 1612?-1690.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>17 March 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 5: J.R. [i.e. John Rushworth].</note>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Truro (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159603:1" rendition="simple:additions"/>
+            <p>A late LETTER FROM Sir Thomas Fairfax's Army now in TRURO. Relating the ſeverall Paſſages
+in the TREATY, And what is concluded. Communicated to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment upon Munday 16.
+March 1645.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Lunae</hi> 16 <hi>March</hi> 1645.</date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by the Lords aſſembled in Parliament, that this Letter be forthwith printed and
+pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                  <closer>
+                     <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 17 March 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159603:2"/>
+            <pb n="1" facs="tcp:159603:2"/>
+            <head>For the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of
+Commons.</head>
+            <head type="sub">Being a Letter ſent from Sir <hi>Thomas Fairfaxs</hi> Army now in
+<hi>Truro.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Wrote to you this day of the further progreſſe of the Trea<g ref="char:EOLhyphen"/>ty held all this day, and till
+twelve at night, and yet could not bee finiſhed, though all the materiall parts were over;
+thoſe which remaine are onely circumſtan<g ref="char:EOLhyphen"/>tiall, yet ſo neceſſary to be concluded in order
+to the perfecting of the Treaty, that more time is granted for the finiſhing there<g ref="char:EOLhyphen"/>of, ſo the
+Treaty and Ceſſation is to con<g ref="char:EOLhyphen"/>tinue
+<pb n="2" facs="tcp:159603:3"/>to morrow alſo; and the Rendezvouz of this Army,
+that ſhould have beene to morrow, is put off till the next day, at which time the Enemy is
+likewiſe to draw out to a Rendezvouze, and there according to the Articles, or as ſhall be
+further agreed on, diſmount their common Troopers, and deliver up their Horſes and Arms: The
+Ene<g ref="char:EOLhyphen"/>my is ſo impatient till the Treaty be done, that this very day there hath no leſſe then
+between thirty and forty Lieutenant Colo<g ref="char:EOLhyphen"/>nels, Majors and Captaines, come away from the Enemy to
+us, beſides others that came to viſit our Quarters, that did not return; This evening
+likewiſe there came a Captaine and forty Gentlemen of quality, with their Hor<g ref="char:EOLhyphen"/>ſes and Arms, who
+likewiſe by the Articles are to have the benefit of their Horſes: And likewiſe there came
+from Penryn 96. Com<g ref="char:EOLhyphen"/>mon Souldiers, with their Muskets and Mat<g ref="char:EOLhyphen"/>ches lighted, and twelve more ſince
+came, and forty more gone another way, which ſo much diſheartned Colonell <hi>Trevanian,</hi>
+the Governour of the Fort and Harbour at Pen<g ref="char:EOLhyphen"/>ryn neer Pendennis, that he ſent unto the Ge<g ref="char:EOLhyphen"/>nerall
+<pb n="3" facs="tcp:159603:3"/>late this evening, to deſire that he might be
+included within the Treaty with the Lord <hi>Hopton,</hi> and have the ſame Con<g ref="char:EOLhyphen"/>ditions that
+other Officers have, which are, Paſſes to go home, and Protections to live quietly from the
+violence of the Souldiers; we conceive there will be all Officers and others of quality, being
+allowed their Hor<g ref="char:EOLhyphen"/>ſes according to the Articles, neer two thou<g ref="char:EOLhyphen"/>ſand Horſe that will come to
+be delivered up to the Generall for the uſe of the State; and though they ſtand the State in
+two thouſand pound Horſes and Armes, yet they will be worth to the State ten thouſand pounds
+at the leaſt, but that is the leaſt thing conſidera<g ref="char:EOLhyphen"/>ble in this great buſineſſe. The
+diſſolving of ſuch a ſtrength, by which meanes the Weſt of England is cleered of a Field
+Enemy, and Forraigne adverſaries deprived of that aſſiſt<g ref="char:EOLhyphen"/>ance they did expect from this
+force, whilſt it was in ſo conſiderable a Body; We doubt not, but Pendennis will upon the
+disbanding of theſe Forces, incline to moderate terms, the Governour thereof is a Gentleman of
+<pb n="4" facs="tcp:159603:4"/>good Fortune and Eſtate in the County, and in all
+likelihood will not be ſo mad to ſee all the whole Gentry at liberty, injoying their own, and
+himſelf as it were in Priſon, injoy<g ref="char:EOLhyphen"/>ing nothing that is his own. I cannot ex<g ref="char:EOLhyphen"/>preſſe with
+what joy moſt of the Officers re<g ref="char:EOLhyphen"/>ceive thoſe Conditions, and wiſh they had ſooner known our
+intentions to wards them: thoſe which are moſt diſcontented at this buſineſſe, are the
+Troopers that were to be diſmounted, but many of them do, during this Ceſſation, uſe waies
+in an handſom man<g ref="char:EOLhyphen"/>ner, to recompence themſelves and ours too, by exchanging good Horſes for
+bad Horſes, gayning twenty ſhillings or thirty ſhillings in exchange from our Troopers, they
+reſer<g ref="char:EOLhyphen"/>ving the bad Horſes, to receive twenty ſhil<g ref="char:EOLhyphen"/>lings upon the delivering of them up unto
+us againe; ſo we have many of the Horſes already, though not in manner according to the Treaty.
+I had directions to prepare a Letter for the Committee of the Army, to make ſtop of the providing
+of Horſes for the Traine, for that here will be ſixe hun<g ref="char:EOLhyphen"/>dred
+<pb n="5" facs="tcp:159603:4"/>to be ſpared for that purpoſe, and the reſt
+that are ſerviceable to be likewiſe diſ<g ref="char:EOLhyphen"/>poſed for Recruits in the Army. I am Sir</p>
+            <closer>
+               <dateline>
+                  <hi>Truro,</hi>
+                  <date>
+                     <hi>March</hi> 11. 1645.</date>
+               </dateline>
+               <signed>Your moſt humble Servant <hi>J. R.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>I Stayed the Meſſenger till this forenoon, but can adde no more, but that the
+Com<g ref="char:EOLhyphen"/>miſſioners are at it, and as ſome of them tell me, almoſt finiſhed the Treaty; (I
+ſhall as ſoone as they are ſigned by both ſides) ſend an Expreſſe with the Contents.
+Though one Army viſit another during the Ceſſa<g ref="char:EOLhyphen"/>tion, yet we are more circumſpect in
+kee<g ref="char:EOLhyphen"/>ping ſtrong Guards, then when the Enemy was moſt active againſt us.</p>
+               <closer>
+                  <dateline>
+                     <hi>Truro</hi> March 12. 12 at
+noone.</dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>This morning 100. Souldiers of Colonell <hi>Champernoons</hi> Regiment are come in, with
+Muskets, Swords, and Bandeleers.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
